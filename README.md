@@ -217,6 +217,12 @@ Semakin kecil nilai MAE dan RMSE, maka semakin baik kemampuan model dalam mempre
 
 ## Deployment
 
+## Link Deployment
+
+Aplikasi dapat diakses melalui link berikut:
+
+[Streamlit App - Sistem Rekomendasi Anime](https://sistem-rekomendasi-anime-fmegxyfdqjafbdqfms2uvm.streamlit.app/)
+
 Deployment dilakukan menggunakan **Streamlit** melalui file `app.py`.
 
 Aplikasi memiliki dua menu utama:
