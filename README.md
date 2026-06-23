@@ -223,7 +223,7 @@ Aplikasi dapat diakses melalui link berikut:
 
 [Streamlit App - Sistem Rekomendasi Anime](https://sistem-rekomendasi-anime-fmegxyfdqjafbdqfms2uvm.streamlit.app/)
 
-Deployment dilakukan menggunakan **Streamlit** melalui file `app.py`.
+Deployment dilakukan melalui file utama app.py. Aplikasi menggunakan data sample dari folder data_sample, sehingga tidak perlu memuat dataset asli yang berukuran besar.
 
 Aplikasi memiliki dua menu utama:
 
